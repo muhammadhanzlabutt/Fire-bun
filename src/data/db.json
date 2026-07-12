@@ -1,0 +1,1782 @@
+{
+  "menu": [
+    {
+      "id": "piz-1",
+      "name": "Chicken Tikka",
+      "category": "Pizzas",
+      "description": "Richly seasoned chicken tikka chunks, melted premium mozzarella, red onions, and our signature herb-infused marinara sauce.",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "prices": {
+        "S": 600,
+        "M": 999,
+        "L": 1400,
+        "XL": 1850
+      }
+    },
+    {
+      "id": "piz-2",
+      "name": "Fajita",
+      "category": "Pizzas",
+      "description": "Succulent fajita-spiced chicken, bell peppers, sweet caramelized onions, and a double layer of rich cheese.",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "prices": {
+        "S": 600,
+        "M": 999,
+        "L": 1400,
+        "XL": 1850
+      }
+    },
+    {
+      "id": "piz-3",
+      "name": "BBQ",
+      "category": "Pizzas",
+      "description": "Premium grilled chicken basted in smoky barbecue sauce, red onion slivers, cilantro, and bubbly mozzarella.",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "prices": {
+        "S": 600,
+        "M": 999,
+        "L": 1400,
+        "XL": 1850
+      }
+    },
+    {
+      "id": "piz-4",
+      "name": "Achari",
+      "category": "Pizzas",
+      "description": "Tangy and spicy pickled chicken chunks, traditional achari spices, fresh jalapeños, and gooey melted cheese.",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "prices": {
+        "S": 600,
+        "M": 999,
+        "L": 1400,
+        "XL": 1850
+      }
+    },
+    {
+      "id": "piz-5",
+      "name": "Vegetable",
+      "category": "Pizzas",
+      "description": "Fresh garden vegetables including bell peppers, sweet corn, black olives, onions, mushrooms, and gourmet mozzarella.",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "prices": {
+        "S": 600,
+        "M": 999,
+        "L": 1400,
+        "XL": 1850
+      }
+    },
+    {
+      "id": "piz-6",
+      "name": "Zinger Pizza",
+      "category": "Pizzas",
+      "description": "Crispy golden zinger chicken pieces, drizzled with spicy mayo and layered over a classical cheese-stuffed base.",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "prices": {
+        "S": 600,
+        "M": 999,
+        "L": 1400,
+        "XL": 1850
+      }
+    },
+    {
+      "id": "piz-7",
+      "name": "Cheese Lover",
+      "category": "Pizzas",
+      "description": "An opulent, decadent blend of premium mozzarella, sharp cheddar, creamy parmesan, and traditional provolone.",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "prices": {
+        "S": 600,
+        "M": 999,
+        "L": 1400,
+        "XL": 1850
+      }
+    },
+    {
+      "id": "piz-8",
+      "name": "Hot & Spicy",
+      "category": "Pizzas",
+      "description": "Spicy ground beef, hot chicken chunks, jalapeños, chili flakes, onions, and our special hot sauce blend.",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "prices": {
+        "S": 600,
+        "M": 999,
+        "L": 1400,
+        "XL": 1850
+      }
+    },
+    {
+      "id": "spiz-1",
+      "name": "Fire Bun Special",
+      "category": "Special Pizzas",
+      "description": "Our signature luxury creation loaded with tender house smoked chicken, pepperoni, mushrooms, premium olives, and gold-standard secret sauce.",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "prices": {
+        "S": 700,
+        "M": 1200,
+        "L": 1550,
+        "XL": 2100
+      }
+    },
+    {
+      "id": "spiz-2",
+      "name": "Kebab Crust",
+      "category": "Special Pizzas",
+      "description": "Traditional seekh kebab stuffed into the golden crown crust, topped with tandoori chicken, green chilies, and creamy white garlic sauce.",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "prices": {
+        "S": 700,
+        "M": 1200,
+        "L": 1550,
+        "XL": 2100
+      }
+    },
+    {
+      "id": "spiz-3",
+      "name": "Chicken Crust",
+      "category": "Special Pizzas",
+      "description": "A unique base crafted with pressed chicken fillets and baked to perfection with double mozzarella and custom herb glaze.",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "prices": {
+        "S": 700,
+        "M": 1200,
+        "L": 1550,
+        "XL": 2100
+      }
+    },
+    {
+      "id": "spiz-4",
+      "name": "Chicken Stuff",
+      "category": "Special Pizzas",
+      "description": "Succulent roasted chicken stuffed generously inside a double-layered dough, glazed with melted garlic butter and herbs.",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "prices": {
+        "S": 700,
+        "M": 1200,
+        "L": 1550,
+        "XL": 2100
+      }
+    },
+    {
+      "id": "spiz-5",
+      "name": "CheeseCrust",
+      "category": "Special Pizzas",
+      "description": "An decadent stuffed crust overflowing with warm cheddar and cream cheese, topped with juicy grill-marked chicken breasts.",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "prices": {
+        "S": 700,
+        "M": 1150,
+        "L": 1550,
+        "XL": 2000
+      }
+    },
+    {
+      "id": "spiz-6",
+      "name": "Lasania",
+      "category": "Special Pizzas",
+      "description": "Layered lasagna pasta sheet embedded in the pizza dough, topped with rich meat sauce, béchamel, and caramelized cheese topping.",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "prices": {
+        "S": 700,
+        "M": 1150,
+        "L": 1550,
+        "XL": 2000
+      }
+    },
+    {
+      "id": "spiz-7",
+      "name": "Malai Boti",
+      "category": "Special Pizzas",
+      "description": "Ultra-creamy malai chicken cubes, melted white cheese, sliced sweet onions, and mild mint sauce drizzle.",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "prices": {
+        "S": 700,
+        "M": 1150,
+        "L": 1550,
+        "XL": 2000
+      }
+    },
+    {
+      "id": "brg-1",
+      "name": "Fire Bun Fillet",
+      "category": "Burgers",
+      "description": "Crispy golden breast fillet tossed in signature spicy fire glaze, served on an artisanal brioche bun.",
+      "sizes": [
+        "Standard"
+      ],
+      "prices": {
+        "Standard": 400
+      }
+    },
+    {
+      "id": "brg-2",
+      "name": "Zinger Cheese",
+      "category": "Burgers",
+      "description": "Crunchy chicken breast, fresh crisp lettuce, single slice of premium cheddar cheese, and house mayo on toasted buns.",
+      "sizes": [
+        "Standard"
+      ],
+      "prices": {
+        "Standard": 400
+      }
+    },
+    {
+      "id": "brg-3",
+      "name": "Petty Burger",
+      "category": "Burgers",
+      "description": "A seasoned classic chicken patty, leaf lettuce, fresh sliced tomatoes, onions, and traditional burger sauce.",
+      "sizes": [
+        "Standard"
+      ],
+      "prices": {
+        "Standard": 300
+      }
+    },
+    {
+      "id": "brg-4",
+      "name": "Double Petty",
+      "category": "Burgers",
+      "description": "Two flame-grilled seasoned chicken patties stacked with double cheese, crispy pickles, and signature spread.",
+      "sizes": [
+        "Standard"
+      ],
+      "prices": {
+        "Standard": 500
+      }
+    },
+    {
+      "id": "brg-5",
+      "name": "Zinger",
+      "category": "Burgers",
+      "description": "The quintessential crispy chicken zinger, shredded crisp iceberg lettuce, and tangy original mayonnaise.",
+      "sizes": [
+        "Standard"
+      ],
+      "prices": {
+        "Standard": 350
+      }
+    },
+    {
+      "id": "brg-6",
+      "name": "Thunder Zinger",
+      "category": "Burgers",
+      "description": "Extra large hand-breaded crispy zinger thigh, layered with jalapeño peppers, spicy chipotle drizzle, and double cheese.",
+      "sizes": [
+        "Standard"
+      ],
+      "prices": {
+        "Standard": 520
+      }
+    },
+    {
+      "id": "brg-7",
+      "name": "Petty Cheese",
+      "category": "Burgers",
+      "description": "Seasoned chicken patty topped with melted cheddar, fresh tomato, onion, lettuce, and rich savory house sauce.",
+      "sizes": [
+        "Standard"
+      ],
+      "prices": {
+        "Standard": 350
+      }
+    },
+    {
+      "id": "shw-1",
+      "name": "Chicken Small",
+      "category": "Shawarma",
+      "description": "Traditional roasted shawarma chicken wrapped in warm pita bread with garlic sauce and sliced pickles.",
+      "sizes": [
+        "Standard"
+      ],
+      "prices": {
+        "Standard": 150
+      }
+    },
+    {
+      "id": "shw-2",
+      "name": "Chicken Large",
+      "category": "Shawarma",
+      "description": "Generous portion of marinated vertical-roasted chicken, fresh pickled vegetables, and Lebanese garlic paste.",
+      "sizes": [
+        "Standard"
+      ],
+      "prices": {
+        "Standard": 180
+      }
+    },
+    {
+      "id": "shw-3",
+      "name": "Chicken Cheese",
+      "category": "Shawarma",
+      "description": "Spiced shawarma chicken and melted mozzarella wrapped in toasted flatbread with a side of house sauce.",
+      "sizes": [
+        "Standard"
+      ],
+      "prices": {
+        "Standard": 200
+      }
+    },
+    {
+      "id": "shw-4",
+      "name": "Zinger Shawarma",
+      "category": "Shawarma",
+      "description": "Crispy zinger chicken tenders sliced and wrapped with crunchy cabbage, mayo, and chili garlic sauce.",
+      "sizes": [
+        "Standard"
+      ],
+      "prices": {
+        "Standard": 300
+      }
+    },
+    {
+      "id": "shw-5",
+      "name": "Zinger Cheese",
+      "category": "Shawarma",
+      "description": "Crispy golden zinger strips, layered with cheddar and mozzarella, toasted hot in a fresh tortilla wrap.",
+      "sizes": [
+        "Standard"
+      ],
+      "prices": {
+        "Standard": 350
+      }
+    },
+    {
+      "id": "wrp-1",
+      "name": "Fire Bun Wrap",
+      "category": "Wraps & Rolls",
+      "description": "Signature flame-grilled chicken tenders, spicy relish, red onions, and bell peppers in an oversized charred tortilla.",
+      "sizes": [
+        "Standard"
+      ],
+      "prices": {
+        "Standard": 600
+      }
+    },
+    {
+      "id": "wrp-2",
+      "name": "Zinger Tortilla",
+      "category": "Wraps & Rolls",
+      "description": "Hand-breaded crunchy zinger strips, fresh lettuce, cheddar cubes, and creamy pepper sauce in a warm wrap.",
+      "sizes": [
+        "Standard"
+      ],
+      "prices": {
+        "Standard": 450
+      }
+    },
+    {
+      "id": "wrp-3",
+      "name": "Chicken Tortilla",
+      "category": "Wraps & Rolls",
+      "description": "Charbroiled chicken breast slices, mixed bell peppers, shredded lettuce, and creamy ranch dressing.",
+      "sizes": [
+        "Standard"
+      ],
+      "prices": {
+        "Standard": 400
+      }
+    },
+    {
+      "id": "wrp-4",
+      "name": "Arabic Wrap",
+      "category": "Wraps & Rolls",
+      "description": "Authentic spiced chicken strips, hummus spread, cucumber pickles, and garlic sauce inside fresh flatbread.",
+      "sizes": [
+        "Standard"
+      ],
+      "prices": {
+        "Standard": 450
+      }
+    },
+    {
+      "id": "wrp-5",
+      "name": "Zinger Cheese Roll",
+      "category": "Wraps & Rolls",
+      "description": "Crispy chicken zinger wrapped in golden fried paratha with melted cheddar and hot garlic mayo.",
+      "sizes": [
+        "Standard"
+      ],
+      "prices": {
+        "Standard": 400
+      }
+    },
+    {
+      "id": "wrp-6",
+      "name": "Zinger Paratha Roll",
+      "category": "Wraps & Rolls",
+      "description": "Traditional flaky paratha stuffed with crispy chicken zinger bites, fresh onions, and green mint chutney.",
+      "sizes": [
+        "Standard"
+      ],
+      "prices": {
+        "Standard": 350
+      }
+    },
+    {
+      "id": "wrp-7",
+      "name": "Chicken Paratha Roll",
+      "category": "Wraps & Rolls",
+      "description": "Succulent chicken chunks grilled over charcoal, wrapped in a buttered paratha with tangy barbecue sauce.",
+      "sizes": [
+        "Standard"
+      ],
+      "prices": {
+        "Standard": 300
+      }
+    },
+    {
+      "id": "wrp-8",
+      "name": "Chicken Cheese Paratha Roll",
+      "category": "Wraps & Rolls",
+      "description": "Spiced chicken cubes, loaded with melted cheddar and mozzarella cheeses, wrapped in toasted crispy paratha.",
+      "sizes": [
+        "Standard"
+      ],
+      "prices": {
+        "Standard": 350
+      }
+    },
+    {
+      "id": "wrp-9",
+      "name": "Kebab Paratha Roll",
+      "category": "Wraps & Rolls",
+      "description": "Juicy grilled seekh kebab, sliced onions, and savory spicy yogurt chutney rolled in a layered paratha.",
+      "sizes": [
+        "Standard"
+      ],
+      "prices": {
+        "Standard": 330
+      }
+    },
+    {
+      "id": "pst-1",
+      "name": "Cheddar Melt",
+      "category": "Pasta",
+      "description": "Penne pasta baked in a rich, velvety cheddar cheese sauce, topped with grilled chicken cubes and gold breadcrumbs.",
+      "sizes": [
+        "Standard"
+      ],
+      "prices": {
+        "Standard": 600
+      }
+    },
+    {
+      "id": "pst-2",
+      "name": "Cheesy Lazania",
+      "category": "Pasta",
+      "description": "Traditional layered lasagna sheets, savory minced meat ragout, creamy béchamel, and caramelized mozzarella crust.",
+      "sizes": [
+        "Standard"
+      ],
+      "prices": {
+        "Standard": 700
+      }
+    },
+    {
+      "id": "pst-3",
+      "name": "Crispy Crunch Pasta",
+      "category": "Pasta",
+      "description": "Creamy white Alfredo pasta served with a topping of hand-breaded crispy chicken strips and parmesan shavings.",
+      "sizes": [
+        "Standard"
+      ],
+      "prices": {
+        "Standard": 550
+      }
+    },
+    {
+      "id": "pst-4",
+      "name": "Russian Salad",
+      "category": "Pasta",
+      "description": "Chilled mix of apples, pineapples, potatoes, carrots, and peas dressed in a sweet cream and white pepper mayonnaise.",
+      "sizes": [
+        "Standard"
+      ],
+      "prices": {
+        "Standard": 600
+      }
+    },
+    {
+      "id": "wng-1",
+      "name": "Hot Wings 5pc",
+      "category": "Wings",
+      "description": "Five crispy chicken wings tossed in our signature vinegar-cayenne hot sauce, served with cool ranch.",
+      "sizes": [
+        "Standard"
+      ],
+      "prices": {
+        "Standard": 400
+      }
+    },
+    {
+      "id": "wng-2",
+      "name": "BBQ Wings 5pc",
+      "category": "Wings",
+      "description": "Five oven-roasted chicken wings basted in sweet, tangy hickory barbecue sauce.",
+      "sizes": [
+        "Standard"
+      ],
+      "prices": {
+        "Standard": 440
+      }
+    },
+    {
+      "id": "wng-3",
+      "name": "Oven Baked 5pc",
+      "category": "Wings",
+      "description": "Five tender wings baked with garlic, olive oil, and premium Italian herbs.",
+      "sizes": [
+        "Standard"
+      ],
+      "prices": {
+        "Standard": 400
+      }
+    },
+    {
+      "id": "wng-4",
+      "name": "Nuggets 6pc",
+      "category": "Wings",
+      "description": "Six golden bite-sized breaded chicken breast nuggets served with honey mustard sauce.",
+      "sizes": [
+        "Standard"
+      ],
+      "prices": {
+        "Standard": 300
+      }
+    },
+    {
+      "id": "wng-5",
+      "name": "Chicken Piece 2pc",
+      "category": "Wings",
+      "description": "Two large pieces of crispy southern-fried bone-in chicken (drum and thigh).",
+      "sizes": [
+        "Standard"
+      ],
+      "prices": {
+        "Standard": 300
+      }
+    },
+    {
+      "id": "frs-1",
+      "name": "Classic Fries",
+      "category": "Fries",
+      "description": "Golden-crisped premium potato batons lightly salted, served with garlic mayo dip.",
+      "sizes": [
+        "S",
+        "L"
+      ],
+      "prices": {
+        "S": 250,
+        "L": 300
+      }
+    },
+    {
+      "id": "frs-2",
+      "name": "Loaded Fries",
+      "category": "Fries",
+      "description": "French fries smothered in warm cheese sauce, diced grilled chicken, jalapeños, and green onion rings.",
+      "sizes": [
+        "S",
+        "L"
+      ],
+      "prices": {
+        "S": 350,
+        "L": 500
+      }
+    },
+    {
+      "id": "frs-3",
+      "name": "Mayo Garlic Fries",
+      "category": "Fries",
+      "description": "Crispy hot fries drenched in a custom garlic and sweet herb mayo blend.",
+      "sizes": [
+        "S",
+        "L"
+      ],
+      "prices": {
+        "S": 300,
+        "L": 250
+      }
+    },
+    {
+      "id": "frs-4",
+      "name": "Pizza Fries",
+      "category": "Fries",
+      "description": "Hot potato fries loaded with pizza sauce, sliced olives, pepperoni, mushroom slices, and melted mozzarella.",
+      "sizes": [
+        "S",
+        "L"
+      ],
+      "prices": {
+        "S": 350,
+        "L": 500
+      }
+    },
+    {
+      "id": "shk-1",
+      "name": "Mango Shake / Juice",
+      "category": "Shakes & Fresh Juice",
+      "description": "Fresh premium mango pulp blended with rich whole milk and cream, or served as pure chilled nectar.",
+      "sizes": [
+        "S",
+        "L"
+      ],
+      "prices": {
+        "S": 170,
+        "L": 200
+      }
+    },
+    {
+      "id": "shk-2",
+      "name": "Banana Shake / Juice",
+      "category": "Shakes & Fresh Juice",
+      "description": "Sweet local bananas blended thick with whole milk, vanilla notes, and whipped cream.",
+      "sizes": [
+        "S",
+        "L"
+      ],
+      "prices": {
+        "S": 170,
+        "L": 200
+      }
+    },
+    {
+      "id": "shk-3",
+      "name": "Apple Shake / Juice",
+      "category": "Shakes & Fresh Juice",
+      "description": "Crisp red apples blended into a refreshing sweet smoothie or cold-pressed juice.",
+      "sizes": [
+        "S",
+        "L"
+      ],
+      "prices": {
+        "S": 170,
+        "L": 200
+      }
+    },
+    {
+      "id": "shk-4",
+      "name": "Pine Apple Shake / Juice",
+      "category": "Shakes & Fresh Juice",
+      "description": "Tangy pineapple chunks blended smooth with milk, or freshly juiced with ice.",
+      "sizes": [
+        "S",
+        "L"
+      ],
+      "prices": {
+        "S": 250,
+        "L": 300
+      }
+    },
+    {
+      "id": "shk-5",
+      "name": "Strawberry Shake / Juice",
+      "category": "Shakes & Fresh Juice",
+      "description": "Tangy sweet field strawberries blended creamy with milk, or served as freshly pressed juice.",
+      "sizes": [
+        "S",
+        "L"
+      ],
+      "prices": {
+        "S": 170,
+        "L": 200
+      }
+    },
+    {
+      "id": "shk-6",
+      "name": "Date & Banana Shake",
+      "category": "Shakes & Fresh Juice",
+      "description": "A luxury healthy blend of premium dates and sweet banana, crafted in pure cream and whole milk.",
+      "sizes": [
+        "L"
+      ],
+      "prices": {
+        "L": 250
+      }
+    },
+    {
+      "id": "shk-7",
+      "name": "Falsa Juice",
+      "category": "Shakes & Fresh Juice",
+      "description": "Tart and refreshing summer falsa berry pulp blended with black salt and crushed ice.",
+      "sizes": [
+        "L"
+      ],
+      "prices": {
+        "L": 250
+      }
+    },
+    {
+      "id": "shk-8",
+      "name": "Peach Juice",
+      "category": "Shakes & Fresh Juice",
+      "description": "Fresh ripe peach juice blended with ice for a cool, fragrant, refreshing summer drink.",
+      "sizes": [
+        "L"
+      ],
+      "prices": {
+        "L": 200
+      }
+    },
+    {
+      "id": "shk-9",
+      "name": "Orange Juice",
+      "category": "Shakes & Fresh Juice",
+      "description": "100% freshly squeezed citrus oranges packed with cold-pressed natural flavor.",
+      "sizes": [
+        "S",
+        "L"
+      ],
+      "prices": {
+        "S": 170,
+        "L": 200
+      }
+    },
+    {
+      "id": "shk-10",
+      "name": "Carrot Juice",
+      "category": "Shakes & Fresh Juice",
+      "description": "Sweet, earthy carrots freshly cold-pressed and served chilled.",
+      "sizes": [
+        "L"
+      ],
+      "prices": {
+        "L": 150
+      }
+    },
+    {
+      "id": "shk-11",
+      "name": "Oreo Shake",
+      "category": "Shakes & Fresh Juice",
+      "description": "Oreo cookies blended with vanilla bean ice cream, chocolate syrup, and cream topping.",
+      "sizes": [
+        "L"
+      ],
+      "prices": {
+        "L": 250
+      }
+    },
+    {
+      "id": "shk-12",
+      "name": "Blue Berry Shake / Juice",
+      "category": "Shakes & Fresh Juice",
+      "description": "Wild blueberries blended with premium vanilla ice cream, or cold-pressed with ice.",
+      "sizes": [
+        "S",
+        "L"
+      ],
+      "prices": {
+        "S": 170,
+        "L": 200
+      }
+    },
+    {
+      "id": "shk-13",
+      "name": "Mint Margarita",
+      "category": "Shakes & Fresh Juice",
+      "description": "A cooling luxury blend of fresh mint leaves, lemon juice, white sugar, sprite, and slushy ice.",
+      "sizes": [
+        "S",
+        "L"
+      ],
+      "prices": {
+        "S": 170,
+        "L": 200
+      }
+    },
+    {
+      "id": "item-1783867216324",
+      "name": "Chicken tikka",
+      "category": "Tikka",
+      "description": "Rich smoked Tikka",
+      "sizes": [
+        "Standard"
+      ],
+      "prices": {
+        "Standard": 149
+      }
+    },
+    {
+      "id": "item-1783868544845",
+      "name": "Seekh Kebab",
+      "category": "Tikka",
+      "description": "Special Seekh Kebab with rich flavours",
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "prices": {
+        "S": 149,
+        "M": 199,
+        "L": 239
+      }
+    }
+  ],
+  "orders": [
+    {
+      "customerName": "Hznla",
+      "tableNumber": "Takeaway",
+      "items": [
+        {
+          "id": "piz-1",
+          "name": "Chicken Tikka",
+          "category": "Pizzas",
+          "size": "S",
+          "price": 600,
+          "quantity": 1
+        }
+      ],
+      "totalAmount": 600,
+      "status": "completed",
+      "id": "ORD-1001",
+      "timestamp": "2026-07-12T14:32:48.386Z"
+    },
+    {
+      "customerName": "Hanzla",
+      "tableNumber": "VIP Lounge",
+      "items": [
+        {
+          "id": "piz-2",
+          "name": "Fajita",
+          "category": "Pizzas",
+          "size": "S",
+          "price": 600,
+          "quantity": 1
+        },
+        {
+          "id": "piz-3",
+          "name": "BBQ",
+          "category": "Pizzas",
+          "size": "S",
+          "price": 600,
+          "quantity": 1
+        },
+        {
+          "id": "wng-2",
+          "name": "BBQ Wings 5pc",
+          "category": "Wings",
+          "size": "Standard",
+          "price": 440,
+          "quantity": 2
+        },
+        {
+          "id": "item-1783867216324",
+          "name": "Chicken tikka",
+          "category": "Tikka",
+          "size": "Standard",
+          "price": 149,
+          "quantity": 1
+        },
+        {
+          "id": "shk-2",
+          "name": "Banana Shake / Juice",
+          "category": "Shakes & Fresh Juice",
+          "size": "S",
+          "price": 170,
+          "quantity": 1
+        }
+      ],
+      "totalAmount": 2399,
+      "status": "completed",
+      "id": "ORD-1002",
+      "timestamp": "2026-07-12T14:57:37.664Z"
+    },
+    {
+      "customerName": "Hanzla",
+      "tableNumber": "Takeaway",
+      "items": [
+        {
+          "id": "piz-3",
+          "name": "BBQ",
+          "category": "Pizzas",
+          "size": "S",
+          "price": 600,
+          "quantity": 1
+        },
+        {
+          "id": "piz-2",
+          "name": "Fajita",
+          "category": "Pizzas",
+          "size": "S",
+          "price": 600,
+          "quantity": 1
+        },
+        {
+          "id": "piz-1",
+          "name": "Chicken Tikka",
+          "category": "Pizzas",
+          "size": "S",
+          "price": 600,
+          "quantity": 1
+        }
+      ],
+      "totalAmount": 1800,
+      "status": "completed",
+      "id": "ORD-1003",
+      "timestamp": "2026-07-12T15:02:57.443Z"
+    },
+    {
+      "customerName": "Hanzla",
+      "tableNumber": "Takeaway",
+      "items": [
+        {
+          "id": "piz-2",
+          "name": "Fajita",
+          "category": "Pizzas",
+          "size": "S",
+          "price": 600,
+          "quantity": 1
+        },
+        {
+          "id": "piz-3",
+          "name": "BBQ",
+          "category": "Pizzas",
+          "size": "S",
+          "price": 600,
+          "quantity": 1
+        }
+      ],
+      "totalAmount": 1200,
+      "status": "completed",
+      "id": "ORD-1004",
+      "timestamp": "2026-07-12T15:05:32.735Z"
+    },
+    {
+      "customerName": "Hanzla",
+      "tableNumber": "Takeaway",
+      "items": [
+        {
+          "id": "piz-2",
+          "name": "Fajita",
+          "category": "Pizzas",
+          "size": "S",
+          "price": 600,
+          "quantity": 1
+        }
+      ],
+      "totalAmount": 600,
+      "status": "completed",
+      "id": "ORD-1005",
+      "timestamp": "2026-07-12T15:09:07.450Z"
+    },
+    {
+      "customerName": "Hanzla",
+      "tableNumber": "Takeaway",
+      "items": [
+        {
+          "id": "piz-3",
+          "name": "BBQ",
+          "category": "Pizzas",
+          "size": "S",
+          "price": 600,
+          "quantity": 1
+        }
+      ],
+      "totalAmount": 600,
+      "status": "completed",
+      "id": "ORD-1006",
+      "timestamp": "2026-07-12T15:10:00.702Z"
+    },
+    {
+      "customerName": "Hanzla",
+      "tableNumber": "Takeaway",
+      "items": [
+        {
+          "id": "piz-2",
+          "name": "Fajita",
+          "category": "Pizzas",
+          "size": "S",
+          "price": 600,
+          "quantity": 1
+        },
+        {
+          "id": "spiz-2",
+          "name": "Kebab Crust",
+          "category": "Special Pizzas",
+          "size": "S",
+          "price": 700,
+          "quantity": 1
+        },
+        {
+          "id": "spiz-1",
+          "name": "Fire Bun Special",
+          "category": "Special Pizzas",
+          "size": "S",
+          "price": 700,
+          "quantity": 1
+        },
+        {
+          "id": "wrp-3",
+          "name": "Chicken Tortilla",
+          "category": "Wraps & Rolls",
+          "size": "Standard",
+          "price": 400,
+          "quantity": 1
+        },
+        {
+          "id": "wrp-4",
+          "name": "Arabic Wrap",
+          "category": "Wraps & Rolls",
+          "size": "Standard",
+          "price": 450,
+          "quantity": 1
+        }
+      ],
+      "totalAmount": 2850,
+      "status": "completed",
+      "id": "ORD-1007",
+      "timestamp": "2026-07-12T15:14:57.031Z"
+    },
+    {
+      "customerName": "G<Jgf",
+      "tableNumber": "Takeaway",
+      "items": [
+        {
+          "id": "piz-3",
+          "name": "BBQ",
+          "category": "Pizzas",
+          "size": "S",
+          "price": 600,
+          "quantity": 1
+        },
+        {
+          "id": "piz-6",
+          "name": "Zinger Pizza",
+          "category": "Pizzas",
+          "size": "S",
+          "price": 600,
+          "quantity": 1
+        },
+        {
+          "id": "piz-5",
+          "name": "Vegetable",
+          "category": "Pizzas",
+          "size": "S",
+          "price": 600,
+          "quantity": 1
+        },
+        {
+          "id": "piz-1",
+          "name": "Chicken Tikka",
+          "category": "Pizzas",
+          "size": "S",
+          "price": 600,
+          "quantity": 1
+        }
+      ],
+      "totalAmount": 2400,
+      "status": "completed",
+      "id": "ORD-1008",
+      "timestamp": "2026-07-12T17:03:24.564Z"
+    }
+  ],
+  "bills": [
+    {
+      "customerName": "Hanzla",
+      "orderId": null,
+      "items": [
+        {
+          "id": "piz-1",
+          "name": "Chicken Tikka",
+          "size": "M",
+          "price": 999,
+          "quantity": 1
+        },
+        {
+          "id": "brg-1",
+          "name": "Fire Bun Fillet",
+          "size": "Standard",
+          "price": 400,
+          "quantity": 2
+        },
+        {
+          "id": "shw-3",
+          "name": "Chicken Cheese",
+          "size": "Standard",
+          "price": 200,
+          "quantity": 2
+        },
+        {
+          "id": "shk-2",
+          "name": "Banana Shake / Juice",
+          "size": "L",
+          "price": 200,
+          "quantity": 1
+        }
+      ],
+      "totalAmount": 2399,
+      "tax": 5,
+      "discount": 0,
+      "grandTotal": 2519,
+      "paymentMethod": "Cash",
+      "cashReceived": 0,
+      "changeGiven": 0,
+      "id": "BILL-2001",
+      "timestamp": "2026-07-12T14:30:50.518Z"
+    },
+    {
+      "customerName": "hanzla",
+      "orderId": null,
+      "items": [
+        {
+          "id": "piz-1",
+          "name": "Chicken Tikka",
+          "size": "M",
+          "price": 999,
+          "quantity": 1
+        },
+        {
+          "id": "piz-2",
+          "name": "Fajita",
+          "size": "M",
+          "price": 999,
+          "quantity": 1
+        },
+        {
+          "id": "piz-4",
+          "name": "Achari",
+          "size": "S",
+          "price": 600,
+          "quantity": 1
+        },
+        {
+          "id": "shw-2",
+          "name": "Chicken Large",
+          "size": "Standard",
+          "price": 180,
+          "quantity": 1
+        },
+        {
+          "id": "shk-2",
+          "name": "Banana Shake / Juice",
+          "size": "L",
+          "price": 200,
+          "quantity": 1
+        }
+      ],
+      "totalAmount": 2978,
+      "tax": 5,
+      "discount": 0,
+      "grandTotal": 3127,
+      "paymentMethod": "Cash",
+      "cashReceived": 0,
+      "changeGiven": 0,
+      "id": "BILL-2002",
+      "timestamp": "2026-07-12T14:34:10.355Z"
+    },
+    {
+      "customerName": "Hanzla",
+      "orderId": null,
+      "items": [
+        {
+          "id": "piz-1",
+          "name": "Chicken Tikka",
+          "size": "M",
+          "price": 999,
+          "quantity": 1
+        },
+        {
+          "id": "piz-1",
+          "name": "Chicken Tikka",
+          "size": "XL",
+          "price": 1850,
+          "quantity": 1
+        },
+        {
+          "id": "piz-4",
+          "name": "Achari",
+          "size": "S",
+          "price": 600,
+          "quantity": 1
+        },
+        {
+          "id": "brg-2",
+          "name": "Zinger Cheese",
+          "size": "Standard",
+          "price": 400,
+          "quantity": 2
+        },
+        {
+          "id": "shk-2",
+          "name": "Banana Shake / Juice",
+          "size": "S",
+          "price": 170,
+          "quantity": 1
+        }
+      ],
+      "totalAmount": 4419,
+      "tax": 5,
+      "discount": 0,
+      "grandTotal": 4640,
+      "paymentMethod": "Cash",
+      "cashReceived": 0,
+      "changeGiven": 0,
+      "id": "BILL-2003",
+      "timestamp": "2026-07-12T14:37:03.225Z"
+    },
+    {
+      "customerName": "hanzla",
+      "orderId": null,
+      "items": [
+        {
+          "id": "shk-1",
+          "name": "Mango Shake / Juice",
+          "size": "L",
+          "price": 200,
+          "quantity": 1
+        },
+        {
+          "id": "shk-2",
+          "name": "Banana Shake / Juice",
+          "size": "L",
+          "price": 200,
+          "quantity": 1
+        },
+        {
+          "id": "frs-3",
+          "name": "Mayo Garlic Fries",
+          "size": "S",
+          "price": 300,
+          "quantity": 1
+        },
+        {
+          "id": "piz-3",
+          "name": "BBQ",
+          "size": "M",
+          "price": 999,
+          "quantity": 1
+        }
+      ],
+      "totalAmount": 1699,
+      "tax": 5,
+      "discount": 0,
+      "grandTotal": 1784,
+      "paymentMethod": "Cash",
+      "cashReceived": 0,
+      "changeGiven": 0,
+      "id": "BILL-2004",
+      "timestamp": "2026-07-12T14:37:31.634Z"
+    },
+    {
+      "customerName": "Hanzla",
+      "orderId": "ORD-1002",
+      "items": [
+        {
+          "id": "piz-2",
+          "name": "Fajita",
+          "size": "S",
+          "price": 600,
+          "quantity": 1
+        },
+        {
+          "id": "piz-3",
+          "name": "BBQ",
+          "size": "S",
+          "price": 600,
+          "quantity": 1
+        },
+        {
+          "id": "wng-2",
+          "name": "BBQ Wings 5pc",
+          "size": "Standard",
+          "price": 440,
+          "quantity": 2
+        },
+        {
+          "id": "item-1783867216324",
+          "name": "Chicken tikka",
+          "size": "Standard",
+          "price": 149,
+          "quantity": 1
+        },
+        {
+          "id": "shk-2",
+          "name": "Banana Shake / Juice",
+          "size": "S",
+          "price": 170,
+          "quantity": 1
+        }
+      ],
+      "totalAmount": 2399,
+      "tax": 0,
+      "discount": 0,
+      "grandTotal": 2399,
+      "paymentMethod": "Cash",
+      "cashReceived": 0,
+      "changeGiven": 0,
+      "id": "BILL-2005",
+      "timestamp": "2026-07-12T14:58:00.533Z"
+    },
+    {
+      "customerName": "Hanzla",
+      "orderId": "ORD-1003",
+      "items": [
+        {
+          "id": "piz-3",
+          "name": "BBQ",
+          "size": "S",
+          "price": 600,
+          "quantity": 1
+        },
+        {
+          "id": "piz-2",
+          "name": "Fajita",
+          "size": "S",
+          "price": 600,
+          "quantity": 1
+        },
+        {
+          "id": "piz-1",
+          "name": "Chicken Tikka",
+          "size": "S",
+          "price": 600,
+          "quantity": 1
+        }
+      ],
+      "totalAmount": 1800,
+      "tax": 0,
+      "discount": 0,
+      "grandTotal": 1800,
+      "paymentMethod": "Cash",
+      "cashReceived": 0,
+      "changeGiven": 0,
+      "id": "BILL-2006",
+      "timestamp": "2026-07-12T15:03:08.248Z"
+    },
+    {
+      "customerName": "Hanzla",
+      "orderId": "ORD-1004",
+      "items": [
+        {
+          "id": "piz-2",
+          "name": "Fajita",
+          "size": "S",
+          "price": 600,
+          "quantity": 1
+        },
+        {
+          "id": "piz-3",
+          "name": "BBQ",
+          "size": "S",
+          "price": 600,
+          "quantity": 1
+        }
+      ],
+      "totalAmount": 1200,
+      "tax": 0,
+      "discount": 0,
+      "grandTotal": 1200,
+      "paymentMethod": "Cash",
+      "cashReceived": 0,
+      "changeGiven": 0,
+      "id": "BILL-2007",
+      "timestamp": "2026-07-12T15:05:41.523Z"
+    },
+    {
+      "customerName": "Hanzla",
+      "orderId": "ORD-1005",
+      "items": [
+        {
+          "id": "piz-2",
+          "name": "Fajita",
+          "size": "S",
+          "price": 600,
+          "quantity": 1
+        }
+      ],
+      "totalAmount": 600,
+      "tax": 0,
+      "discount": 0,
+      "grandTotal": 600,
+      "paymentMethod": "Cash",
+      "cashReceived": 0,
+      "changeGiven": 0,
+      "id": "BILL-2008",
+      "timestamp": "2026-07-12T15:09:15.518Z"
+    },
+    {
+      "customerName": "Hanzla",
+      "orderId": "ORD-1006",
+      "items": [
+        {
+          "id": "piz-3",
+          "name": "BBQ",
+          "size": "S",
+          "price": 600,
+          "quantity": 1
+        }
+      ],
+      "totalAmount": 600,
+      "tax": 0,
+      "discount": 0,
+      "grandTotal": 600,
+      "paymentMethod": "Cash",
+      "cashReceived": 0,
+      "changeGiven": 0,
+      "id": "BILL-2009",
+      "timestamp": "2026-07-12T15:10:31.487Z"
+    },
+    {
+      "customerName": "Hanzla",
+      "orderId": "ORD-1007",
+      "items": [
+        {
+          "id": "piz-2",
+          "name": "Fajita",
+          "size": "S",
+          "price": 600,
+          "quantity": 1
+        },
+        {
+          "id": "spiz-2",
+          "name": "Kebab Crust",
+          "size": "S",
+          "price": 700,
+          "quantity": 1
+        },
+        {
+          "id": "spiz-1",
+          "name": "Fire Bun Special",
+          "size": "S",
+          "price": 700,
+          "quantity": 1
+        },
+        {
+          "id": "wrp-3",
+          "name": "Chicken Tortilla",
+          "size": "Standard",
+          "price": 400,
+          "quantity": 1
+        },
+        {
+          "id": "wrp-4",
+          "name": "Arabic Wrap",
+          "size": "Standard",
+          "price": 450,
+          "quantity": 1
+        }
+      ],
+      "totalAmount": 2850,
+      "tax": 0,
+      "discount": 0,
+      "grandTotal": 2850,
+      "paymentMethod": "Cash",
+      "cashReceived": 0,
+      "changeGiven": 0,
+      "id": "BILL-2010",
+      "timestamp": "2026-07-12T15:15:04.824Z"
+    },
+    {
+      "customerName": "Hanzla",
+      "orderId": null,
+      "items": [
+        {
+          "id": "piz-2",
+          "name": "Fajita",
+          "size": "L",
+          "price": 1400,
+          "quantity": 1
+        },
+        {
+          "id": "piz-4",
+          "name": "Achari",
+          "size": "M",
+          "price": 999,
+          "quantity": 1
+        }
+      ],
+      "totalAmount": 2399,
+      "tax": 0,
+      "discount": 0,
+      "grandTotal": 2399,
+      "paymentMethod": "Cash",
+      "cashReceived": 0,
+      "changeGiven": 0,
+      "id": "BILL-2011",
+      "timestamp": "2026-07-12T15:15:28.534Z"
+    },
+    {
+      "customerName": "hoand",
+      "orderId": null,
+      "items": [
+        {
+          "id": "piz-1",
+          "name": "Chicken Tikka",
+          "size": "M",
+          "price": 999,
+          "quantity": 1
+        },
+        {
+          "id": "piz-2",
+          "name": "Fajita",
+          "size": "M",
+          "price": 999,
+          "quantity": 1
+        }
+      ],
+      "totalAmount": 1998,
+      "tax": 0,
+      "discount": 0,
+      "grandTotal": 1998,
+      "paymentMethod": "Cash",
+      "cashReceived": 0,
+      "changeGiven": 0,
+      "id": "BILL-2012",
+      "timestamp": "2026-07-12T15:16:13.467Z"
+    },
+    {
+      "customerName": "Hanzla",
+      "orderId": null,
+      "items": [
+        {
+          "id": "piz-2",
+          "name": "Fajita",
+          "size": "M",
+          "price": 999,
+          "quantity": 1
+        },
+        {
+          "id": "piz-1",
+          "name": "Chicken Tikka",
+          "size": "L",
+          "price": 1400,
+          "quantity": 1
+        },
+        {
+          "id": "spiz-3",
+          "name": "Chicken Crust",
+          "size": "L",
+          "price": 1550,
+          "quantity": 1
+        },
+        {
+          "id": "shw-1",
+          "name": "Chicken Small",
+          "size": "Standard",
+          "price": 150,
+          "quantity": 1
+        }
+      ],
+      "totalAmount": 4099,
+      "tax": 0,
+      "discount": 0,
+      "grandTotal": 4099,
+      "paymentMethod": "Cash",
+      "cashReceived": 0,
+      "changeGiven": 0,
+      "id": "BILL-2013",
+      "timestamp": "2026-07-12T15:18:57.518Z"
+    },
+    {
+      "customerName": "sanij",
+      "orderId": null,
+      "items": [
+        {
+          "id": "piz-1",
+          "name": "Chicken Tikka",
+          "size": "L",
+          "price": 1400,
+          "quantity": 1
+        },
+        {
+          "id": "spiz-1",
+          "name": "Fire Bun Special",
+          "size": "L",
+          "price": 1550,
+          "quantity": 1
+        },
+        {
+          "id": "brg-3",
+          "name": "Petty Burger",
+          "size": "Standard",
+          "price": 300,
+          "quantity": 1
+        },
+        {
+          "id": "shw-2",
+          "name": "Chicken Large",
+          "size": "Standard",
+          "price": 180,
+          "quantity": 1
+        }
+      ],
+      "totalAmount": 3430,
+      "tax": 0,
+      "discount": 0,
+      "grandTotal": 3430,
+      "paymentMethod": "Cash",
+      "cashReceived": 0,
+      "changeGiven": 0,
+      "id": "BILL-2014",
+      "timestamp": "2026-07-12T15:30:58.089Z"
+    },
+    {
+      "customerName": "Hanzla",
+      "orderId": null,
+      "items": [
+        {
+          "id": "brg-4",
+          "name": "Double Petty",
+          "size": "Standard",
+          "price": 500,
+          "quantity": 3
+        },
+        {
+          "id": "shw-4",
+          "name": "Zinger Shawarma",
+          "size": "Standard",
+          "price": 300,
+          "quantity": 1
+        },
+        {
+          "id": "shw-2",
+          "name": "Chicken Large",
+          "size": "Standard",
+          "price": 180,
+          "quantity": 1
+        },
+        {
+          "id": "shw-5",
+          "name": "Zinger Cheese",
+          "size": "Standard",
+          "price": 350,
+          "quantity": 1
+        },
+        {
+          "id": "wrp-5",
+          "name": "Zinger Cheese Roll",
+          "size": "Standard",
+          "price": 400,
+          "quantity": 1
+        }
+      ],
+      "totalAmount": 2730,
+      "tax": 0,
+      "discount": 0,
+      "grandTotal": 2730,
+      "paymentMethod": "Cash",
+      "cashReceived": 0,
+      "changeGiven": 0,
+      "id": "BILL-2015",
+      "timestamp": "2026-07-12T16:44:54.451Z"
+    },
+    {
+      "customerName": "G<Jgf",
+      "orderId": "ORD-1008",
+      "items": [
+        {
+          "id": "piz-3",
+          "name": "BBQ",
+          "size": "S",
+          "price": 600,
+          "quantity": 1
+        },
+        {
+          "id": "piz-6",
+          "name": "Zinger Pizza",
+          "size": "S",
+          "price": 600,
+          "quantity": 1
+        },
+        {
+          "id": "piz-5",
+          "name": "Vegetable",
+          "size": "S",
+          "price": 600,
+          "quantity": 1
+        },
+        {
+          "id": "piz-1",
+          "name": "Chicken Tikka",
+          "size": "S",
+          "price": 600,
+          "quantity": 1
+        }
+      ],
+      "totalAmount": 2400,
+      "tax": 0,
+      "discount": 0,
+      "grandTotal": 2400,
+      "paymentMethod": "Cash",
+      "cashReceived": 0,
+      "changeGiven": 0,
+      "id": "BILL-2016",
+      "timestamp": "2026-07-12T17:03:39.870Z"
+    }
+  ]
+}
