@@ -857,34 +857,6 @@
         "S": 170,
         "L": 200
       }
-    },
-    {
-      "id": "item-1783867216324",
-      "name": "Chicken tikka",
-      "category": "Tikka",
-      "description": "Rich smoked Tikka",
-      "sizes": [
-        "Standard"
-      ],
-      "prices": {
-        "Standard": 149
-      }
-    },
-    {
-      "id": "item-1783868544845",
-      "name": "Seekh Kebab",
-      "category": "Tikka",
-      "description": "Special Seekh Kebab with rich flavours",
-      "sizes": [
-        "S",
-        "M",
-        "L"
-      ],
-      "prices": {
-        "S": 149,
-        "M": 199,
-        "L": 239
-      }
     }
   ],
   "orders": [
