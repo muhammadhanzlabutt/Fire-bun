@@ -103,21 +103,21 @@ export default function Navbar() {
           </span>
         </Link>
 
-        {/* Centered Desktop MENU Link */}
-        <div className="hidden md:flex absolute left-1/2 -translate-x-1/2 items-center justify-center">
+        {/* Centered Desktop Menu */}
+        <div className="hidden md:block absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2">
           <Link
             href="/"
-            className={`inline-block w-48 py-2 text-center text-sm tracking-widest font-bold uppercase transition-all duration-300 ${
+            className={`inline-block py-1.5 text-center text-xs tracking-[10px] pl-[10px] font-bold uppercase transition-all duration-300 ${
               pathname === "/" || pathname === "/customer"
                 ? "text-luxury-gold border-b-2 border-luxury-gold"
-                : "text-gray-400 hover:text-white border-b-2 border-transparent hover:border-white/20"
+                : "text-gray-400 hover:text-white"
             }`}
           >
             MENU
           </Link>
         </div>
 
-        {/* Desktop Role & Action Area */}
+        {/* Desktop Links & Role Area */}
         <div className="hidden md:flex items-center gap-6">
 
           {/* Cart (customer only) */}
@@ -231,7 +231,7 @@ export default function Navbar() {
             <Link
               href="/"
               onClick={() => setMobileMenuOpen(false)}
-              className={`py-2 text-center text-sm font-bold tracking-widest uppercase border border-luxury-gold/25 rounded-xl bg-luxury-gold/5 ${
+              className={`py-2 text-center text-sm font-bold tracking-[10px] pl-[10px] uppercase border border-luxury-gold/25 rounded-xl bg-luxury-gold/5 ${
                 pathname === "/" || pathname === "/customer" ? "text-luxury-gold" : "text-gray-300"
               }`}
             >

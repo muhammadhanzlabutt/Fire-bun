@@ -1749,6 +1749,35 @@
       "changeGiven": 0,
       "id": "BILL-2016",
       "timestamp": "2026-07-12T17:03:39.870Z"
+    },
+    {
+      "customerName": "Hanzla",
+      "orderId": null,
+      "items": [
+        {
+          "id": "piz-1",
+          "name": "Chicken Tikka",
+          "size": "XL",
+          "price": 1850,
+          "quantity": 1
+        },
+        {
+          "id": "piz-4",
+          "name": "Achari",
+          "size": "M",
+          "price": 999,
+          "quantity": 1
+        }
+      ],
+      "totalAmount": 2849,
+      "tax": 0,
+      "discount": 0,
+      "grandTotal": 2849,
+      "paymentMethod": "Cash",
+      "cashReceived": 0,
+      "changeGiven": 0,
+      "id": "BILL-2017",
+      "timestamp": "2026-07-13T09:21:02.018Z"
     }
   ]
 }
